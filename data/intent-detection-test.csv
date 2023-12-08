@@ -1,0 +1,39 @@
+,text,label
+69,Quels sont les avantages de terminer le lycée,out_of_scope
+44,Veuillez me trouver une chambre d'hôtel pour 4 personnes du lundi au mercredi à Lakewood,book_hotel
+29,Que puis-je faire à Nashville,travel_suggestion
+6,Comment dire bonjour en anglais,translate
+1,Dites-moi comment dire: «C'est une belle matinée» en italien,translate
+62,Combien d'Oscars ont gagné les films Star Wars,out_of_scope
+60,Combien de temps dure l'hiver,out_of_scope
+22,"Aide, j'ai perdu mes bagages",lost_luggage
+15,Quand mon vol atterrira-t-il,flight_status
+66,Quand Camus est-il mort,out_of_scope
+56,Quel est le plus grand état des États-Unis,out_of_scope
+13,Quand allons-nous commencer à monter à bord de mon vol prévu,flight_status
+57,Quelle est la compagnie aérienne la plus populaire,out_of_scope
+58,Combien de planètes avons-nous découvert,out_of_scope
+40,Dois-je payer pour mes bagages à main,carry_on
+47,J'ai besoin d'une chambre d'hôtel assez grande pour 4 personnes du lundi au mercredi à Lakewood,book_hotel
+72,Que vaut un dollar au Mexique,out_of_scope
+65,Quelle est la durée de vie de la batterie moyenne d'un téléphone Android,out_of_scope
+50,Je recherche un vol aller-retour de AAF à DIA du 23 février au 28 février,book_flight
+10,Est-il sûr de se rendre en Islande,travel_alert
+23,Savez-vous qui je devrais contacter car mes valises ne sont pas arrivées,lost_luggage
+48,Trouvez-moi des vols aller-retour de LAX vers SFOX,book_flight
+52,J'ai besoin de réserver un vol aller-retour de Dallas à Los Angeles du 2 au 10 mars,book_flight
+12,Y a-t-il des nouvelles sur le vol DL123,flight_status
+31,Où est la meilleure cave du sud de la France,travel_suggestion
+5,Veuillez me dire comment demander un taxi en français,translate
+0,"Pouvez-vous me dire comment dire «je ne parle pas beaucoup espagnol», en espagnol",translate
+63,Veuillez trouver la capitale du Pakistan ,out_of_scope
+38,Quelles sont les règles concernant les bagages à main pour les vols Virgin Airlines,carry_on
+68,Quel personnage Marvel est apparu dans le plus de films,out_of_scope
+43,Quels hôtels ont des critiques décentes à Bangor,book_hotel
+35,Qu'est-ce que je suis autorisé à prendre en cabine avec American Airlines,carry_on
+46,"S'il vous plaît, aidez-moi à réserver un endroit où séjourner à Pittsburgh du lundi au vendredi",book_hotel
+9,Y a-t-il une alerte de voyage pour la Russie,travel_alert
+27,Quels sont les bons restaurants à Chicago,travel_suggestion
+25,Veuillez suggérer des activités touristiques amusantes à Tokyo,travel_suggestion
+37,Combien de bagages à main puis-je prendre pendant un vol avec United pour Lax,carry_on
+19,Perte des bagages sur Flight America Airlines à O'Hare,lost_luggage

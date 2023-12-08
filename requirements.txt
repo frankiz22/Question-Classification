@@ -1,0 +1,10 @@
+transformers
+numpy
+pandas
+scikit-learn
+matplotlib
+datasets
+accelerate
+SentencePiece
+evaluate
+seaborn

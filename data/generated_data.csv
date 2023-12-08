@@ -1,0 +1,674 @@
+text,label
+Quelles sont les meilleures options d'hôtels à New York City?,book_hotel
+Que peut-on voir dans la ville de San Francisco ?,travel_suggestion
+Est-ce que vous pouvez me donner des informations sur les vols directs entre Los Angeles et Londres ?,book_flight
+Combien coûterait un billet aller-retour entre Paris et Rome ?,book_flight
+Quels sont les meilleurs hôtels à proximité de Times Square ?,book_hotel
+Que faites-vous ce soir,out_of_scope
+Où se trouve le plus grand lac dans le monde,out_of_scope
+Je veux une chambre double avec vue sur la mer et un lit king size dans un hôtel situé près de Times Square,book_hotel
+combien sont les frais de loyers en France,out_of_scope
+"Que signifie ""dollar"" en français",translate
+Monter par avion de Londres à Tokyo,book_flight
+Je veux réserver une chambre à hôtel à Paris,book_hotel
+Combien coûte une bouteille d'eau en Inde,out_of_scope
+comment puis-je réserver un hôtel à Londres,book_hotel
+que doit-il y avoir à faire à Los Angeles ce week-end,travel_suggestion
+combien coûtent les billets d'avion de Chicago à Las Vegas,book_flight
+Je veux réserver un billet pour un avion qui part de Paris à 10h du matin,book_flight
+Combien coûte un billet aller-retour de New York à Los Angeles,book_flight
+Combien coûte le billet d'avion de New York à Paris,book_flight
+Que devrais-je faire si ma valise ne parvenait pas à l'aéroport,lost_luggage
+Combien coûterait un ticket aller/retour vers New York City,book_flight
+Où est le plus grand lac américain?,out_of_scope
+Combien coûte le billet d'avion entre Boston et San Francisco,book_flight
+"Que signifie ""détente"" en anglais",translate
+Je voudrais réserver un hôtel dans la ville d'Austin,book_hotel
+Combien coûte un billet pour partir de San Francisco vers Paris ?,book_flight
+Je veux voir si il y a des vols disponibles pour partir de Boston vers Rome,book_flight
+Je veux réserver un vol pour Boston,book_flight
+Donnez-moi des suggestions de voyages,travel_suggestion
+Combien coûte un billet d'avion pour Los Angeles,book_flight
+Où se trouve le plus grand lac des États-Unis,out_of_scope
+Quelle est la capitale de l'Alaska,out_of_scope
+Quels sont les pays qui ont fait partie de l'Union soviétique,out_of_scope
+Quelles sont les villes importantes de l'Inde,out_of_scope
+Quel est le nom du président américain actuellement en fonction,out_of_scope
+Quel est le prix moyen d'un appartement à Miami,out_of_scope
+Quel est le meilleur restaurant à Boston,out_of_scope
+Quel est le meilleur musée à Washington DC,out_of_scope
+Combien coûterait un ticket aller/retour entre Los Angeles et San Francisco avec Southwest Airlines ?,book_flight
+"Que signifie ""hola"" en espagnol",translate
+Est-ce qu'il y a des restrictions sur les sacs à main au Japon,carry_on
+"Que signifie l'expression ""départ"" en français",translate
+Quand je prendrai l'avion ?,flight_status
+Pourquoi ne peuvent-ils pas avoir plus de places assises,out_of_scope
+Dans quel mois est Noël,out_of_scope
+Dans quelle ville se trouve le plus grand lac du monde,out_of_scope
+Avez-vous une idée sur comment voyager vers l'Australie ?,travel_suggestion
+Quels sont les endroits où il faut aller en Italie ?,travel_suggestion
+Je veux réserver une chambre d’hôte dans un hôtel près de l’aéroport de Los Angeles,book_hotel
+Je voudrais savoir combien coute un ticket aller/retour vers Tokyo,book_flight
+Quelle est la meilleure chaîne de télévision?,out_of_scope
+Que peut-on voir à San Francisco en deux jours,travel_suggestion
+Où se trouve la plus grande mosquée de l'Amérique,out_of_scope
+Dans quel état se situe le Grand Canyon,out_of_scope
+Quelles sont les villes les plus chères des États-Unis,out_of_scope
+J'ai besoin d'un hôtel à New York pour la semaine prochaine,book_hotel
+Où se trouve le plus grand lac en Amérique du Nord,out_of_scope
+Je voudrais réserver deux places pour la nuit du 1er mai à l'hôtel Hilton Garden Inn à New York,book_hotel
+Que se passe-t-il si je ne suis pas arrivée à l'aéroport avant minuit,out_of_scope
+Je souhaite réserver un billet pour aller à Paris,book_flight
+Dans quel pays se trouve le mont Fuji,out_of_scope
+Je veux réserver deux places sur un avion de Los Angeles à Miami,book_flight
+combien coute une pizza dans la ville de San Francisco,out_of_scope
+comment faire pour que ma femme me quitte,out_of_scope
+quel est le meilleur film de Star Wars,out_of_scope
+Cherchez un hôtel à Los Angeles,book_hotel
+Soyez plus précis concernant votre destination lorsqu’il s’agit de voyager vers l’Europe,out_of_scope
+Que signifient ces lettres : LC,out_of_scope
+Pourquoi je ne peux pas trouver de billets pour un match de football à Wembley Stadium ?,out_of_scope
+Que peut-on voir dans les environs de New York,travel_suggestion
+Comment puis-je aller au musée d'art moderne de New York,travel_suggestion
+Où se trouve le centre commercial de Boston,out_of_scope
+Est-ce que j'ai besoin d'un visa pour visiter Washington DC,out_of_scope
+Comment puis-je réserver un vol direct vers Paris avec American Airlines ?,book_flight
+"Que font dire ces mots : ""I love you""",translate
+Dites moi quel est le meilleur endroit où je peux aller avec mes enfants pendant les vacances,travel_suggestion
+Combien dure un voyage en avion depuis Los Angeles jusqu'à San Francisco,out_of_scope
+Comment appellez vous l'homme qui a inventé le téléphone portable,out_of_scope
+Quand commence l'année civile,out_of_scope
+Comment je peux réserver une place dans l'avion de New York à Los Angeles,book_flight
+Quel est le prix du ticket pour partir de Boston vers Chicago,book_flight
+Quelles sont les heures de départ et d'arrivée de mon vol,flight_status
+Quelle est la date de ma prochaine réservation,out_of_scope
+Quelle est la date de mon prochain voyage,out_of_scope
+Que faites-ils dans la série Star Trek,out_of_scope
+Pourquoi les gens sont-ils si gentils,out_of_scope
+Je veux réserver un vol direct de Londres à Los Angeles,book_flight
+Que peut-on faire dans cette ville ?,travel_suggestion
+Où est situé le centre-ville ?,out_of_scope
+Comment puis-je réserver un billet pour aller de New York à Londres,book_flight
+"Que signifie ""bonjour"" en allemand",translate
+Dites moi quel est le prix d'un billet aller/retour entre San Francisco et Seattle,book_flight
+Est-ce qu'un avion va partir vers New York ?,flight_status
+Quel est le meilleur moyen de se rendre en Australie depuis New York,travel_suggestion
+Je voudrais savoir si vous pouvez me donner des informations sur les restrictions de cabine pour les vols internationaux,carry_on
+Est-ce que les avions sont encore disponibles pour mon retour,out_of_scope
+Je veux réserver un vol aller/retour New York - Los Angeles,book_flight
+Est-ce qu'Air Canada propose des services de transport de bagages à main ?,carry_on
+Où se trouve le plus grand musée d'art moderne au monde ?,out_of_scope
+Pourquoi les oiseaux ne peuvent pas parler,out_of_scope
+Je veux partir de San Francisco vers Boston en avion,book_flight
+Je veux prendre un avion depuis Boston jusqu'à Miami,book_flight
+Je souhaite voyager au Mexique pendant deux semaines. Quelles sont les meilleures destinations?,travel_suggestion
+Je suis allé à Paris il y a quelques jours. Je voulais savoir si vous avez des suggestions pour ce que j'ai pu voir ou faire,travel_suggestion
+Je recherche un hôtel à Londres avec un parking gratuit,book_hotel
+Comment je peux réserver une chambre dans le centre ville de San Francisco,book_hotel
+Que peut-il être fait avec ce ticket ?,out_of_scope
+Pourriez vous m'aider à trouver un avion direct de Londres à Los Angeles,book_flight
+Comment peut-il devenir une citoyenne américaine,out_of_scope
+Je veux savoir si les États-Unis ont des lois sur le mariage homosexuel,out_of_scope
+Est-ce qu'il y a des restrictions de bagage à main pour American Airlines ?,carry_on
+Monter au sommet de Mont Blanc,out_of_scope
+Quels sont les pays qui font partie de l'UE,out_of_scope
+Quels sont les langues parlées en Allemagne,out_of_scope
+Quels sont les pays voisins de l'Italie,out_of_scope
+Où se situe le Mont Blanc,out_of_scope
+Comment puis-je réserver un vol aller/retour entre Paris et New York,book_flight
+Est-ce que les vols de Southwest Airline ont une limite de poids pour les bagages à main?,carry_on
+Pourquoi je ne peux pas utiliser mon téléphone pendant le décollage et l'atterrissage?,out_of_scope
+Est-ce que je peux avoir un billet pour New York City,book_flight
+"Pourquoi les États-Unis sont-ils appelés ""les Etats Unis""",out_of_scope
+Combien coûterait un vol direct de Londres à Sydney,book_flight
+J'ai besoin d'un hôtel près de l'aéroport de Los Angeles,book_hotel
+Je recherche un hôtel à proximité de l'aéroport de Toronto,book_hotel
+Je souhaite réserver un billet d'avion pour aller de Hong Kong à Pékin,book_flight
+Pourquoi la France n'est pas dans l'Union européenne ?,out_of_scope
+Comment puis-je obtenir un billet pour un vol vers New York,book_flight
+Je souhaite prendre un avion de Boston à Los Angeles,book_flight
+traduit le texte suivant : «je suis heureuse d'avoir trouvé ce site»,translate
+réserver un vol de New York à Paris le 1er janvier,book_flight
+combien coûterait un voyage de San Francisco à Los Angeles?,out_of_scope
+Comment je peux réserver des billets pour les matchs de football,out_of_scope
+Quel est le nom de la capitale de l'Allemagne,out_of_scope
+Je veux aller à San Francisco par avion. Quels sont les prix disponibles,book_flight
+Je voudrais une chambre double au Grand Hotel Kempinski Genève,book_hotel
+Combien coûterait un vol de Boston à Los Angeles en première classe,book_flight
+Est-ce qu'il y aura des alertes de voyage pour la Chine ?,travel_alert
+Auquel hôtel devrais-je rester à New York,book_hotel
+Combien dure un match de football américain,out_of_scope
+Je voudrais un ticket pour l'avion de New York à Los Angeles,book_flight
+Pourquoi ne peut-on pas faire des livres électroniques gratuits,out_of_scope
+combien coûtent les billets pour un match des Lakers ?,out_of_scope
+où se trouve le plus haut gratte-ciel du monde ?,out_of_scope
+où se trouve le plus grand parc national du monde ?,out_of_scope
+Pour combien d'années l'homme a-t-il vécu sur Mars ?,out_of_scope
+Je voudrais voir le prix du billet pour un vol de Boston à San Francisco,book_flight
+Combien d'années il y a entre la naissance de Jésus et celle de Mahomet,out_of_scope
+Directions pour aller à l'aéroport de New York,out_of_scope
+Où se trouve le mont Fujiyama,out_of_scope
+Que sont les noms des trois frères musulmans qui ont fondé l'Islam,out_of_scope
+Quelle était la première langue écrite dans le monde,out_of_scope
+Quels sont les pays où on parle le français,out_of_scope
+Quelles sont les capitales des États-Unis,out_of_scope
+Que vos conseils pour visiter la ville de New York,travel_suggestion
+Comment je peux réserver des billets pour la route New York - Los Angeles,book_flight
+J'ai besoin d'un hôtel dans le centre ville de New York,book_hotel
+Comment puis-je obtenir des informations sur l'état du vol,flight_status
+Quelle est la date de naissance de John Lennon ?,out_of_scope
+Comment appeler un chat en français,translate
+Je veux réserver un hôtel à New York pour les vacances d'hiver,book_hotel
+Que peut-on trouver à faire dans San Francisco en janvier,travel_suggestion
+Avez-vous des suggestions sur ce qu'il faut visiter en Californie,travel_suggestion
+Je souhaite réserver deux places pour le vol de San Francisco vers Chicago,book_flight
+Comment appelle-t-on la ville d'Amsterdam en néerlandais,translate
+Quel est le nombre de jours que vous avez passés sur cette planète,out_of_scope
+comment j'ai pu trouver un hôtel à Los Angeles,book_hotel
+ou sont situées les îles Galápagos,out_of_scope
+Je veux voir les prix pour aller de Londres à Rome,book_flight
+Je voudrais savoir si il existe des vols directs entre San Francisco et Tokyo,book_flight
+Je voudrais savoir quel est le meilleur hôtel à proximité de l'aéroport,book_hotel
+Je voudrais savoir quand commence le vol,flight_status
+Où se trouve ma valise,lost_luggage
+J'ai perdu mon sac à dos et je ne sais pas où il se trouve,lost_luggage
+Je veux voir si vous avez quelque chose à propos de mon vol,flight_status
+Est-ce qu'il y a un problème avec mon vol ?,flight_status
+Que se passe-t-il si j'arrive trop tard au terminal ?,out_of_scope
+Je souhaite réserver un vol aller/retour de Toronto à Rome,book_flight
+Pourquoi les États-Unis ont-ils envoyé des troupes au Moyen-Orient,out_of_scope
+Quel est votre nom préféré dans Star Trek,out_of_scope
+Combien de pays font partie de l'Union européenne,out_of_scope
+Dites-moi les dates de Noël cette année,out_of_scope
+"Comment dit-on ""I am hungry"" en français",translate
+Je veux réserver un hôtel pour le week-end prochain,book_hotel
+Je veux voir si il existe des vols directs entre New York et Los Angeles,book_flight
+Je voudrais savoir si vous avez des vols directs entre Washington DC et Las Vegas,book_flight
+Je veux savoir si il existe des restrictions de bagage à main pour United Airlines,carry_on
+Je souhaite obtenir des informations sur les restrictions de bagage à main pour Delta Airlines,carry_on
+Je suis intéressé par les restrictions de bagage à main pour Alaska Airlines,carry_on
+Combien coûte un ticket pour partir de Paris vers Los Angeles,book_flight
+Pourquoi les avions ne sont pas plus rapides que les trains,out_of_scope
+Est-ce que vous pouvez m'aider à trouver des hébergements à New York City,book_hotel
+Que peut-il faire si il n'y a plus de place dans son sac à dos,out_of_scope
+Je suis en train de planifier un voyage avec mes amis et nous avons besoin d'hébergement,book_hotel
+"Que signifient les lettres «A», «B», «C» sur mon billet ?",out_of_scope
+J'ai besoin d'un avion vers Chicago et retour dans deux semaines,book_flight
+Dites moi comment on dit «billet» en français,translate
+Ou se trouve le mont Fuji au Japon,out_of_scope
+Comment je peux réserver un billet d’avion pour Boston ?,book_flight
+Est-ce qu'un avion peut être utilisé comme arme nucléaire,out_of_scope
+Combien coûte la nuit dans l'hôtel Hilton Garden Inn à Chicago,out_of_scope
+Comment appelle-t-on le président américain,out_of_scope
+Pourquoi les gens parlent-ils anglais aux États-Unis ?,out_of_scope
+Est-ce que je peux prendre mon sac à dos sur le vol?,carry_on
+Je souhaite réserver un billet pour un vol de San Francisco à Sydney,book_flight
+Que devrais-je faire si mon téléphone portable ne fonctionne pas,out_of_scope
+Pourquoi les gens sont-ils venus dans cette ville,out_of_scope
+Dans quelle rue se trouve le musée des arts,out_of_scope
+Pourquoi les billets sont si chers,out_of_scope
+Comment je peux faire pour me rendre invisible ?,out_of_scope
+Où est la plus grande ville du monde,out_of_scope
+Que faites-vous maintenant ?,out_of_scope
+Dans quel pays est situé le Mont Blanc,out_of_scope
+Auquel endroit j'aurais pu voir des dinosaures,out_of_scope
+En quoi consiste le tourisme culturel,out_of_scope
+Que vont-elles servir ces pains ?,out_of_scope
+Dans quel temps se déroule Star Wars,out_of_scope
+"Que signifie ""départ"" sur un ticket d'avion",out_of_scope
+Quelle est la meilleure manière de voyager entre New York et Washington DC,travel_suggestion
+Je voudrais réserver un hôtel à New York,book_hotel
+Est-ce que je peux prendre une valise en plastique dans l’avion,carry_on
+"Comment dire ""I love you"" en français",translate
+"Que signifie ""coup de foudre"" en anglais",translate
+Combien coûte la nourriture dans les avions américains,out_of_scope
+Puis-je avoir un billet pour New York vers Paris le 1er mai prochain,book_flight
+combien coute un ticket aller simple vers Paris,book_flight
+pouvez vous me donner les informations sur le vol BA123,flight_status
+"comme je ne parle pas anglais, pouvez-vous me traduire cette phrase",translate
+Où est situé le musée national de l'Australie ?,out_of_scope
+Donnez moi les heures d'ouverture de la bibliothèque publique de Londres,out_of_scope
+Que peut-on trouver à faire à Paris pendant trois jours ?,travel_suggestion
+Est-ce qu'il y a des restrictions aux entrées en Italie actuellement ?,travel_alert
+Avez-vous des suggestions pour ce week-end ?,travel_suggestion
+Quel est le nombre d'équipes en NBA,out_of_scope
+combien y a t il d'équipe en NFL,out_of_scope
+Quelle équipe joue au football américain à Los Angeles,out_of_scope
+Quels sont les deux clubs de baseball de New York,out_of_scope
+Quelles sont les villes où se trouvent les Yankees,out_of_scope
+Quels sont les deux clubs de hockey de Montréal,out_of_scope
+Pour combien de temps durera ma visite en Chine,out_of_scope
+Combien coûte un billet aller-retour pour Boston,book_flight
+Pouvez-vous me donner des conseils sur ce qu'il faut faire à Londres,travel_suggestion
+pourquoi les gens ne sont-ils pas heureux,out_of_scope
+peut-être que tu as vu ce film avant moi,out_of_scope
+Peut-être que tu sais quel est le nom du réalisateur de Star Wars,out_of_scope
+Que deviennent les gens qui ne parlent pas anglais dans un avion américain ?,out_of_scope
+Dans quel pays se situe la capitale française,out_of_scope
+Que peut-on faire si on ne trouve pas son sac à dos,lost_luggage
+Pourquoi mes bagages ont été perdu,lost_luggage
+Dans quel hôtel je vais dormir ce soir,book_hotel
+Dites-moi quel est l'âge d'un enfant âgé de 10 ans et demi,out_of_scope
+Comment appellez-vous les gens qui vivent dans un village,out_of_scope
+Que se passe-t-il au Canada,out_of_scope
+comme dit-on «london» en allemand,translate
+Avez-vous des suggestions pour visiter San Francisco,travel_suggestion
+Que peut-il se passer si j'ai trop de bagages à main avec Delta Airlines,carry_on
+Dites-moi quel est le prix moyen d'un hôtel à New York,out_of_scope
+Pourquoi mes bagages n'ont pas été livrés,lost_luggage
+Comment puis-je réserver un vol vers la Chine,book_flight
+Quel est le prix du billet d'avion entre New York et Los Angeles,book_flight
+Je veux voir si il y a des restrictions sur les bagages à Dubai,carry_on
+Peut-on prendre son sac à dos lors d'un vol intérieur aux États-Unis,carry_on
+Quelle est la taille minimale requise pour un sac à main,carry_on
+Quelles sont les règles relatives aux bagages à main,carry_on
+Quelle est la meilleure façon de se rendre à San Francisco depuis Seattle,travel_suggestion
+Que peut-on faire à Las Vegas,travel_suggestion
+Quand commence la saison de football américain,out_of_scope
+Je voudrais savoir si je peux emporter mes bagages dans le compartiment supérieur ou non,carry_on
+Dites-moi quel est le meilleur hôtel à Paris,book_hotel
+Combien coûte un billet aller simple vers Los Angeles depuis Boston,book_flight
+Que devrais-je faire si j'oublie mon sac à dos dans l'avion ?,lost_luggage
+Je voudrais une chambre double avec vue sur la mer à Miami,book_hotel
+Quand commence la saison NBA,out_of_scope
+Pourquoi l'Angleterre s'appelle Angleterre,out_of_scope
+Quelles sont les villes jumelées avec Paris,out_of_scope
+"Quel est le nom d'une ville qui commence par ""L"" et dont le mot français signifie ""lac""",out_of_scope
+Quelle est la meilleure façon de se rendre d’Athènes à Mykonos ?,travel_suggestion
+Je veux savoir quel est le meilleur hôtel pour les vacances prochaines,book_hotel
+Que signifie «l'américain» en espagnol,translate
+Je voudrais réserver un billet pour New York City en septembre,book_flight
+Où se trouve la gare centrale de Londres,out_of_scope
+Avez-vous des suggestions sur les lieux où j'ai pu visiter à Los Angeles,travel_suggestion
+Pourquoi je ne peux pas choisir ma propre place ?,out_of_scope
+"Que signifie ""non stop"" dans les vols",out_of_scope
+Que peut-on faire avec ce billet ?,out_of_scope
+Que signifient ces caractères ?,out_of_scope
+Pourquoi l'hélicoptère n'est pas utilisé comme moyen de transport courant,out_of_scope
+Je veux réserver un siège pour le vol de Los Angeles à New York,book_flight
+Comment appellez vous la capitale d'Allemagne,out_of_scope
+Dans quels pays parlent ils anglais,out_of_scope
+Où sont situés les Alpes,out_of_scope
+Quelles sont les villes les plus visitées par les Américains,out_of_scope
+Quel est le nom de la ville où se situe Disneyland,out_of_scope
+"Je veux savoir ce que cela signifie ""en route"" en anglais",translate
+Quel est le nombre de personnes qui peuvent être sur un avion,out_of_scope
+Est-ce qu’un enfant doit payer la même tarif que l’adulte,out_of_scope
+Je veux partir de San Francisco et retourner à Seattle,book_flight
+Puis-je prendre ma valise avec moi sur l'avion,carry_on
+Comment appelle-t-on la capitale de la France en français,translate
+Que peut-on voir dans l'île de Pâques,travel_suggestion
+Je veux un hôtel pour la semaine prochaine en Floride,book_hotel
+Où se trouve le plus grand lac d'eau douce sur Terre ?,out_of_scope
+Pourquoi la France n’est-elle pas en Amérique du Nord?,out_of_scope
+Je veux réserver un vol de Washington DC à Atlanta. Est-ce que cela fonctionne ?,book_flight
+Est-ce que vous avez des suggestions sur ce qui y a à faire à Seattle ?,travel_suggestion
+Est-ce que vous savez où se trouve le parc national Yosemite ?,out_of_scope
+Combien coûte un billet d'avion aller-retour entre San Francisco et Seattle,book_flight
+Auquel hôtel vous conseillez que je reste à Miami,book_hotel
+Que se passe-t-il si j'oublie mon sac à dos sur le bus ?,out_of_scope
+Dans quels pays la langue officielle est le français,out_of_scope
+Je souhaite réserver un billet pour le vol de Washington DC à Atlanta,book_flight
+Avez-vous des suggestions sur ce qui peut être fait à Boston,travel_suggestion
+Est-ce que vous pouvez m’aider à traduire cette phrase : « Je suis heureux »,translate
+Je veux un avion qui va d'Amsterdam à Londres,book_flight
+Je veux réserver un billet d'avion pour partir de San Francisco vers Los Angeles,book_flight
+Que se passe-t-il si je ne peux pas trouver mon sac à main au bureau d'enregistrement ?,lost_luggage
+Quelles sont les restrictions de bagage à main pour Air France,carry_on
+Quelle est la population du Canada,out_of_scope
+Comment je peux aller de New York à Paris,out_of_scope
+Combien coûte un ticket de train entre Washington et Boston,out_of_scope
+Est-ce qu'un avion peut être plus grand que Boeing 747,out_of_scope
+Mon avion va partir à 10 heures et demie,flight_status
+Pourquoi je ne peux pas prendre mon sac à dos dans le compartiment supérieur,carry_on
+Que deviens-tu si tu as perdu ton sac à dos pendant votre trajet,lost_luggage
+Que se passe t-il avec mes bagages perdus,lost_luggage
+Quels sont les meilleures villes à visiter en Italie,travel_suggestion
+Avez-vous des suggestions sur où aller en vacances cette année,travel_suggestion
+Comment appellez vous les toilettes dans cet endroit,translate
+Je veux aller voir le Grand Canyon,travel_suggestion
+Comment puis-je récupérer mes bagages perdus,lost_luggage
+Quel est le nombre maximum de kilos autorisé pour les bagages à main ?,carry_on
+Que voulez-vous faire pour un week-end à New York,travel_suggestion
+Votre avion va arriver où,flight_status
+Que signifie l'expression «il n'y a pas de problème» en français,translate
+Comment puis-je savoir si ma réservation d'avion est confirmée,flight_status
+Pourquoi ne peut-on pas prendre plus de deux sacs à main sur American Airlines,carry_on
+Quelle est la taille maximale des bagages à main pour American Airlines,carry_on
+Quelle est l'heure d'arrivée de mon vol,flight_status
+Je veux savoir si le vol BA123 est retardé ou annulé,flight_status
+"Comment dire ""bonne nuit"" en espagnol ?",translate
+Que devrais-je faire si je souhaitais voir des crocodiles ?,travel_suggestion
+Comment puis-je obtenir un remboursement si ma valise ne s'est pas rendue avec moi,lost_luggage
+Comment dit-on «merci» en allemand ?,translate
+Je veux aller au Japon et visiter Tokyo. Quelles sont les choses qu'il faut voir dans la ville,travel_suggestion
+"Que signifient ces mots : ""Ich bin ein Berliner""",translate
+Est-ce que vous pouvez me donner quelques conseils sur ce que je peux faire pendant mon séjour à Paris,travel_suggestion
+Donnez-moi les informations sur le vol BA123,flight_status
+Que doit-on faire si on veut aller au musée du Louvre,travel_suggestion
+Donnez-moi une suggestion de voyage à New York City,travel_suggestion
+"Que signifie ""I love you"" en allemand",translate
+Que peut-on voir à Paris,travel_suggestion
+Pourquoi ne peux-je pas emporter mes chaussures avec moi ?,carry_on
+Quelle est la meilleure manière de se rendre à New York depuis San Francisco,travel_suggestion
+Pouvez-vous me réserver un hôtel à Los Angeles pour le mois prochain ?,book_hotel
+Pourquoi le vol ne part pas,flight_status
+Je veux voir quelque chose de spécialement intéressant à faire à Paris,travel_suggestion
+Pourquoi ne peux-je pas prendre mon sac à dos avec moi ?,carry_on
+Je souhaite visiter le Vatican,travel_suggestion
+Je veux aller en vacances dans les Caraïbes. Quels sont mes options ?,travel_suggestion
+Est-ce qu'un passager peut emporter son propre sac à dos sur l'avion,carry_on
+Pourquoi ne peux-je pas prendre ma valise dans la cabine,carry_on
+"Quel est le mot anglais qui correspond au mot français ""baguette""",translate
+Quels sont les meilleures destinations pour un voyage de vacances avec mon ami,travel_suggestion
+Est-ce que je peux emporter mes vêtements en sac à dos sur Air Canada,carry_on
+Je veux voir les sites touristiques de Paris,travel_suggestion
+Quelles sont les meilleures destinations pour un voyage avec enfants,travel_suggestion
+Avez-vous des suggestions sur comment voyager à partir de Londres,travel_suggestion
+Je veux voir la tour Eiffel et l'Arc de Triomphe,travel_suggestion
+"Comment appelle-t-on ""la pluie"" en anglais?",translate
+Mon avion va partir quand,flight_status
+Quelle est la meilleure destination en Europe pour un couple qui veut passer ses vacances d'été,travel_suggestion
+Je voudrais voir quelque chose de différent dans mon pays natal,travel_suggestion
+Que signifie «pizza» en italien ?,translate
+Puis-je avoir des suggestions de lieux touristiques à visiter dans San Francisco,travel_suggestion
+Que peut-il se passer si je ne peux pas trouver mon sac à dos ?,lost_luggage
+Je veux voir les chutes du Niagara Falls,travel_suggestion
+Que voulez-vous savoir sur les restrictions de bagage à main ?,carry_on
+Quelles sont les meilleures destinations à visiter au Japon,travel_suggestion
+Comment dit-on «j'aime Paris» en chinois,translate
+J'ai besoin de savoir s'il existe des restrictions de bagage à main pour Southwest Airlines,carry_on
+Est-ce que je peux prendre mes bagages avec moi sur l'avion,carry_on
+Quelle est la meilleure manière de voyager vers l'Australie,travel_suggestion
+Est-ce que je peux emporter mes chaussures dans ma valise ou doit-elle être placée dans mon sac à dos,carry_on
+Quelle est la taille du sac à dos le plus grand autorisé par Air France,carry_on
+Où peut-on trouver des informations sur les restrictions de bagage à main pour United Airlines,carry_on
+Quels sont les meilleurs endroits où aller à Sydney,travel_suggestion
+Quelles sont les attractions touristiques les plus populaires à Tokyo,travel_suggestion
+Que devrais-je porter avec moi dans mon sac à dos lorsque j'ai un vol intérieur?,carry_on
+Quelles sont les attractions touristiques de Paris,travel_suggestion
+"Comment dire ""Je ne comprend pas"" en allemand",translate
+Où est le bureau d’aéroport pour les bagages perdus,lost_luggage
+Je souhaite réserver un vol vers New York City pour le mois prochain. Est-ce que vous pouvez me donner quelques suggestions ?,travel_suggestion
+Comment dit-on «j'ai perdu ma carte d'identité» dans l'anglais,translate
+Je veux voir l'Eiffel Tower. Quels sont les horaires et comment y aller,travel_suggestion
+Je voudrais savoir si il existe une restriction sur l'emport d'un sac à dos,carry_on
+Est-ce qu'il y a une limite de poids pour mes bagages à main,carry_on
+Pourriez-vous me dire si je peux prendre ma valise dans la cabine ?,carry_on
+Quand mon avion arrive-t-il à destination,flight_status
+Pourquoi mes bagages ne sont pas arrivés avec moi ?,lost_luggage
+Que peut-on trouver à faire à New York,travel_suggestion
+Je veux savoir comment on dit «bonjour» en français,translate
+Quel est le meilleur moyen de se rendre au Japon depuis l'Australie,travel_suggestion
+Je veux voir quelques choses sur la culture et la nourriture locale à New York,travel_suggestion
+Pouvez-vous me dire si il existe des restrictions sur les sacs à dos ?,carry_on
+J'ai perdu mes bagages lorsque je suis parti de Seattle vers Denver,lost_luggage
+Est-ce que vous pouvez m'aider à réserver un hôtel à Londres du 1er au 5 janvier ?,book_hotel
+Recherchez un hôtel à proximité de Times Square,book_hotel
+Je veux voir si il existe des restrictions aux sacs à dos,carry_on
+J'ai besoin de savoir quand je serai arrivé à destination,flight_status
+Pourquoi ne m'ont pas livré mes bagages,lost_luggage
+Cherchez-moi un hôtel à Monterey,book_hotel
+Peut-on emporter des liquides dans son bagage à main ?,carry_on
+Est-ce que vous pouvez me donner les informations sur les restrictions de bagages dans les compagnies aériennes américaines ?,carry_on
+Je veux voir la ville d'Amsterdam,travel_suggestion
+Comment puis-je récupérer mon sac à main perdu,lost_luggage
+Je voudrais réserver un hôtel pour deux personnes à New York City pendant trois nuits entre le 1er et le 4 décembre,book_hotel
+Que doit-on faire quand on arrive à Paris,travel_suggestion
+Je veux voir les meilleures attractions d'Orlando,travel_suggestion
+Que vais-je voir et faire à New York,travel_suggestion
+"Comment dit-on ""bonjour"" en espagnol ?",translate
+Est-ce qu'il existe des restrictions sur les articles de voyage dans les avions,carry_on
+Que peut-on faire si on perd ses bagages pendant son voyage,lost_luggage
+Que peut-on faire en cas de perte de bagage,lost_luggage
+Ajoutez une alerte de voyage pour la France,travel_alert
+Où peut-on trouver un hôtel à New York,book_hotel
+Votre vol doit arriver à 10h30,flight_status
+Quels sont les meilleures choses à faire à Paris ce week-end,travel_suggestion
+Donnez-moi quelques conseils pour voyager en Inde,travel_suggestion
+Avez-vous des suggestions pour des lieux touristiques intéressants à visiter à Paris,travel_suggestion
+Peut-être pouvez-vous m'envoyer des informations sur les restrictions de bagage à main pour Air France,carry_on
+Que doit-il y avoir à faire en ville ?,travel_suggestion
+Avez-vous des suggestions pour ce qui doit être fait lorsque nous arrivons à destination,travel_suggestion
+Quelle est la taille du bagage à main ?,carry_on
+Est-ce qu'un avion va partir de l'aéroport de Los Angeles vers l'aéroport de San Francisco,flight_status
+Est-ce qu'un passager peut porter son propre sac à dos dans le compartiment supérieur du Boeing 737 MAX,carry_on
+Je souhaite réserver un hôtel à Tokyo du 1er au 5 janvier,book_hotel
+"Comment dit-on ""j'ai perdu mon sac"" en français",translate
+Quelle est la meilleure manière d'aller au musée du Louvre,travel_suggestion
+Que devrais-je faire si je souhaitais aller à Disney World,travel_suggestion
+Je suis intéressé par un voyage à Paris pendant Noël,travel_suggestion
+Que devrais-je voir à Londres?,travel_suggestion
+Comment puis-je obtenir une réservation d'hôtel à New York City,book_hotel
+Pourquoi ne pas visiter le Louvre quand on se trouve à Paris,travel_suggestion
+Donnez-moi une idée de ce qu'est-ce qui peut être fait à Londres,travel_suggestion
+Je voudrais une suggestion d’endroits touristiques à visiter à New York,travel_suggestion
+Que signifie “I have been there” en anglais ?,translate
+Pourquoi les personnes visitent-ils Sydney,travel_suggestion
+"Dites-moi quel est le nom français de ""The Great Wall of China""",translate
+Est-ce que vous pouvez me donner des informations sur les restrictions de bagage à main avec Delta Air Lines,carry_on
+Je cherche un hôtel à proximité de l'aéroport international John F Kennedy,book_hotel
+Pourquoi il y a-t-il des restrictions de bagages à main,carry_on
+Veuillez m'informer si il est possible de prendre mon sac à dos sur le vol,carry_on
+Je voudrais réserver une chambre pour le 1er décembre à New York,book_hotel
+Je veux voir les sites historiques et culturels d'Australie,travel_suggestion
+Quels sont les lieux touristiques populaires à visiter à Sydney,travel_suggestion
+Que peut-on faire à Tokyo si vous avez seulement deux jours,travel_suggestion
+Quels sont les lieux les plus populaires à visiter en Italie,travel_suggestion
+Donnez-moi une suggestion de destination pour mon anniversaire,travel_suggestion
+Que voulez vous voir à Paris,travel_suggestion
+Avez-vous des suggestions pour voyager dans le monde entier,travel_suggestion
+Je voudrais une chambre double avec vue sur l'océan et un lit king dans un hôtel à proximité d'un parc national,book_hotel
+Est-ce qu'il y a des restrictions de poids pour les bagages à bord d'une compagnie aérienne particulière,carry_on
+Est-ce qu'il existe une limite de poids pour mes bagages à main lorsque je prends un avion Delta Air Lines?,carry_on
+Que devrais-je voir si je vis à Paris pour la première fois,travel_suggestion
+Je veux savoir si j'arrive à temps à l'aéroport,flight_status
+Donnez-moi une suggestion sur comment voyager jusqu'à Londres,travel_suggestion
+Je veux voir les Alpes suisses. Quelles sont les meilleures villes à visiter?,travel_suggestion
+Que doit-on faire si on veut aller dans la ville de Sydney,travel_suggestion
+Est-ce qu'un avion va partir dans quelques minutes,flight_status
+Est-ce que j'arrive à destination à 1h30 du matin,flight_status
+Que devrais-je faire si ma valise n'est pas arrivée avec moi,lost_luggage
+Mon avion s'arrête à New York et il faut que je change d'avion,flight_status
+Veuillez me dire combien de minutes nous resterions sur terre,flight_status
+Le pilote annonce que nous allons être retardés,flight_status
+Je souhaite visiter la ville de Londres. Est-ce que vous avez quelque chose à propos de cela ?,travel_suggestion
+Je souhaiterai visiter la ville de Rome. Voulez-vous m’aider ?,travel_suggestion
+Je désire visiter la ville de Tokyo. Pensez-vous avoir quelque chose à propos de cela ?,travel_suggestion
+Que fait-il si on oublie son sac à dos au bureau d'enregistrement ?,lost_luggage
+Comment dit-on «j'arrive à l'aéroport d'Atlanta» en français,translate
+Je voudrais savoir si il est possible d'emporter une guitare acoustique dans l'avion,carry_on
+Avez-vous une idée de ce qui se passe à Berlin,travel_suggestion
+Quel est le meilleur endroit où aller dans New York,travel_suggestion
+Je veux voir quelque chose d'intéressant à Los Angeles,travel_suggestion
+Dites-moi ce qu'est-ce qui se trouve près de Times Square,travel_suggestion
+Quels sont les hôtels disponibles à Cali le 11 novembre,book_hotel
+Je souhaite réserver une chambre à l'hôtel Hilton Garden Inn à New York City pour deux nuits commençant le 1er janvier,book_hotel
+Que peut-on trouver à Los Angeles?,travel_suggestion
+Pourquoi mes bagages ont été perdu lorsque je suis parti avec American Airlines,lost_luggage
+Pouvez-vous me donner des informations sur le vol 1234 de United Airlines qui part de Chicago vers Londres ?,flight_status
+Dites-moi comment je dis «bonjour» en allemand,translate
+Je voudrais savoir s’il y a des restrictions concernant les objets personnels dans les compartiments,carry_on
+Je veux aller au musée national australien,travel_suggestion
+Je suis allé à Amsterdam il y a quelques jours. Quels sont les lieux que je ne dois pas manquer ?,travel_suggestion
+Je souhaiterais savoir si il y a des restrictions de cabine pour les États-Unis,carry_on
+Est-ce que je peux emporter un sac à dos dans l’avion,carry_on
+Quels sont les principaux points d’intérêt de Rome,travel_suggestion
+Quel est l'heure d'atterrissage,flight_status
+Quels sont les pays qui ont des alertes de voyage actives,travel_alert
+Quelles sont les destinations populaires pour les vacances d'été,travel_suggestion
+Avez-vous une idée de ce que je peux faire à Chicago,travel_suggestion
+"Je suis arrivé trop tôt et l'avion n'est pas encore prêt à partir, est-ce que vous pouvez m'aider à réserver un hôtel pendant la journée",book_hotel
+Dites moi comment aller de San Francisco à Seattle,travel_suggestion
+Où je peux aller avec mes enfants pendant nos vacances,travel_suggestion
+Que signifie «il n'y a pas de place disponible» en espagnol,translate
+comme dit-on «merci» en espagnol,translate
+comment dit-on «au revoir» en russe,translate
+Que devrais-je voir si je vis à San Francisco,travel_suggestion
+Que fait-on dans la ville d'Auckland,travel_suggestion
+Je voudrais savoir si British Airways a des restrictions de bagage à main,carry_on
+Je voudrais savoir si il y a des alertes de voyage en Chine,travel_alert
+J'ai perdu mes bagages lorsque j'avais pris le vol American Airlines AA123 de Chicago à Los Angeles,lost_luggage
+Est-ce qu’il existe des restrictions de cabine pour les vols vers les Émirats Arabes Unis?,carry_on
+Quel est le numéro du vol qui va partir vers Paris?,flight_status
+Quelle est la meilleure façon de passer ma journée à Venise,travel_suggestion
+Que devrais-je faire quand j’arrive à destination,travel_suggestion
+Auquel hôtel pourrai-je rester à San Francisco?,book_hotel
+Comment puis-je réserver une chambre au Grand Central Hotel?,book_hotel
+Je veux voir le mont Fuji,travel_suggestion
+Que devrais-je faire dans Kyoto,travel_suggestion
+Pensez-vous que cela soit possible de prendre avec soi un sac à dos dans l'avion,carry_on
+Sachez-vous comment on dit «merci» en espagnol,translate
+Pouvez-vous me donner des suggestions de destinations pour mes vacances prochaines ?,travel_suggestion
+Peut-être que vous avez des suggestions pour mes vacances à Miami ?,travel_suggestion
+Avez-vous des conseils pour ma prochaine visite à Rome ?,travel_suggestion
+Comment dit-on «départ» en anglais,translate
+"Comment dit-on ""I am going to Paris next week"" en espagnol ?",translate
+Est-ce qu'un sac à dos peut être considéré comme un bagage à main,carry_on
+Que peut-on trouver à faire à Paris ce week-end?,travel_suggestion
+Avez-vous des suggestions sur où j’peux visiter au Québec ?,travel_suggestion
+Pouvez-vous me donner quelques conseils pour visiter Londres,travel_suggestion
+Je suis arrivé trop tôt au terminal et mon avion n'est pas encore prêt à décoller. Quand peut-je prendre mon siège ?,flight_status
+Combien coûterait-il de mettre un sac à dos dans la cabine ?,carry_on
+Je veux réserver une chambre à New York City pour deux personnes entre le 1er et le 3 janvier,book_hotel
+Quels sont les meilleurs endroits pour visiter à Londres,travel_suggestion
+Quels sont les meilleures villes européennes pour voyager,travel_suggestion
+Dans quel hôtel loger à Madrid,book_hotel
+Quand le prochain vol vers Paris partira-t-il ?,flight_status
+Quelles sont les restrictions de cabine pour les Philippines?,carry_on
+Que devrais-je mettre dans mon sac à main et ce qui ne peut pas aller dedans,carry_on
+Que peut-il y avoir d'intéressant à voir dans la ville de Toulouse ?,travel_suggestion
+Donnez-moi une suggestion d'hôtels à Los Angeles,book_hotel
+Avez-vous besoin de prendre votre sac à dos avec vous sur cet avion,carry_on
+"Comment appellez-vous ""le"" en français",translate
+Puis-je emmener mon sac à dos en avion,carry_on
+Veuillez m'informer s'il existe des restrictions de bagage à main,carry_on
+Avez-vous des conseils pour voyager avec enfants,travel_suggestion
+Souhaitez-vous que nous vous donniez des conseils pour voyager dans un pays où on parle anglais,travel_suggestion
+Comment puis-je réserver une place pour la nuit prochaine dans un hôtel près d'Oakland Airport,book_hotel
+Je veux savoir quand mon vol décolle,flight_status
+Quelle est la restriction de bagage à main pour Air France,carry_on
+Pourriez-vous me donner des informations sur les lieux touristiques à Hyderabad?,travel_suggestion
+Quels sont les endroits touristiques à visiter à Bali?,travel_suggestion
+"Mon avion va partir en 1 heure et demie, comment puis-je savoir si cela se produira",flight_status
+Pourquoi mes bagages ne sont pas parvenu à destination?,lost_luggage
+Que devrais-je faire si je me retrouve sans mon sac à dos?,lost_luggage
+Je veux voir les informations sur le vol qui va partir dans deux heures,flight_status
+Quel est le mot qui veut dire «café» en allemand ?,translate
+Mon numéro de vol est AA123. Quand arrive-je à destination ?,flight_status
+Je voudrais savoir si il y a des restrictions sur les bagages à main pour Air France,carry_on
+"Traduitz-le ceci en français : ""I am going to buy some groceries""",translate
+Que devrais-je faire quand je suis à New York,travel_suggestion
+Est-ce qu'un avion Air France va partir vers Paris aujourd'hui?,flight_status
+Est-ce qu'il existe des restrictions de poids pour les bagages à main?,carry_on
+Je veux voir les choses à faire à New York,travel_suggestion
+Je voudrais réserver une chambre pour deux personnes au Grand Hotel de Londres,book_hotel
+Quels sont les pays où il y a des alertes de voyage actuellement en vigueur,travel_alert
+Je voudrais un hôtel avec piscine et spa près d’un parc,book_hotel
+Je veux voir le Grand Canyon. Que devrais-je faire pour y aller,travel_suggestion
+Auquel hôtel vous conseillez-vous de rester à Tokyo ?,book_hotel
+Quelles sont les restrictions liées aux bagages à main ?,carry_on
+Je veux savoir quand le prochain avion va partir,flight_status
+Je suis arrivé à Paris et je ne sais pas où aller,travel_suggestion
+Que devrais-je faire si je veux voir les pyramides d’Égypte,travel_suggestion
+I want to book a room in a hotel in Paris,book_hotel
+Je veux voir la plage et l'aquarium d'Orlando,travel_suggestion
+Pourquoi ne pas visiter Universal Studios lorsque vous allez à Orlando ?,travel_suggestion
+Je cherche un hôtel à Los Angeles pendant Noël,book_hotel
+Quels sont les hôtels les plus populaires dans le quartier de Westwood Village,book_hotel
+"J'ai besoin d'un mot clé pour ""pour"" en français",translate
+Je suis allée à Paris. Donnez-moi quelques suggestions de lieux que je ne devrais pas rater,travel_suggestion
+Pourquoi mon avion ne s'est pas débarrassé de ses bagages,lost_luggage
+Je cherche un hôtel à Los Angeles pour trois nuits commençant le 1er avril,book_hotel
+Dans quel hôtel devrais-je rester à Sydney,book_hotel
+Puis-je emporter ma guitare dans mon bagage à main,carry_on
+Comment puis-je obtenir un remboursement pour ma bagage perdu,lost_luggage
+"Quelle est la meilleure manière de dire ""bonne nuit"" en espagnol",translate
+Que fait-on dans l'île d'Hawaï,travel_suggestion
+Que peut-il se produire lorsque vous avez perdu vos bagages?,lost_luggage
+Je veux voir si il existe une réserve d'hébergement disponible dans cette ville,book_hotel
+Quelle est la taille des sacs à dos autorisés sur le vol,carry_on
+Que doit-on voir à New York ?,travel_suggestion
+Que peut-on trouver dans la région ?,travel_suggestion
+Est-ce que vous pouvez me donner des informations sur l'hôtel où j'ai fait ma réservation ?,book_hotel
+Que doit-on faire dans le centre-ville de New York,travel_suggestion
+Je voudrais savoir comment ajouter une alerte de voyage,travel_alert
+Quel est le nombre d'alerte de voyage pour les États Unis?,travel_alert
+Quels sont les pays dont il est interdit d’y voyager actuellement ?,travel_alert
+Est-ce qu’il y a une alerte de voyage en cours au Japon ?,travel_alert
+Quel est le statut du vol AA123,flight_status
+Je veux voir si il y a une alerte de voyage pour l'Inde,travel_alert
+Je souhaite savoir s'il existe des alertes de voyage pour l'Italie,travel_alert
+Comment puis-je savoir s'ils ont été trouvés et où ils se trouvent maintenant,lost_luggage
+"Je suis parti d'Atlanta vers Paris en avion, mais mon sac à dos est resté à Atlanta",lost_luggage
+Où je peux aller pour récupérer mon sac à dos,lost_luggage
+J'ai besoin d'une assistance urgente car mes bagages ne sont pas arrivés avec moi,lost_luggage
+"Mon numéro de vol était AA123, et j'avais un sac à dos rouge",lost_luggage
+Avez-vous une idée de quand ma valise sera retrouvé,lost_luggage
+Où sont mes bagages ?,lost_luggage
+J'ai besoin de connaître la date exacte où mes bagages seront arrivé,lost_luggage
+Où se trouve le bureau de récupération de bagages ?,lost_luggage
+Peut-on demander au personnel de l'aéroport de nous appeler lorsque nos bagages sont arrivés ?,lost_luggage
+Que devrait-on faire si on ne reçoit pas ses bagages après avoir débarqué ?,lost_luggage
+"Si on ne reçoit pas son bagage, comment peut-on s'en servir ?",lost_luggage
+"En cas de problème avec les bagages, comment peut-on résoudre ce problème ?",lost_luggage
+Quelle est la procédure à suivre si on ne reçoit pas ses bagages ?,lost_luggage
+Je voudrais savoir comment récupérer mon sac à dos,lost_luggage
+Où puis-je aller pour demander une compensation pour le sac à dos qui m'a manqué ?,lost_luggage
+Je veux voir les alertes de voyage pour la France,travel_alert
+Avez-vous des informations sur les alertes de voyage aux Etats-Unis ?,travel_alert
+Quelles sont les alertes de voyage à destination de l'Inde ?,travel_alert
+Que peut-on faire si les bagages perdus ne sont pas trouvés ?,lost_luggage
+Pourquoi mes bagages ont été perdus et comment pouvez-vous m'aider à trouver ceux-ci?,lost_luggage
+Mon numéro de vol était FF1234 et j'avais deux bagages à bord,lost_luggage
+Où peut-on trouver plus d'informations sur les alertes de voyages actuelles?,travel_alert
+Est-ce qu’un avis de voyage est disponible pour l’Inde,travel_alert
+Quand les bagages seront ils là ?,lost_luggage
+J'ai perdu mon téléphone portable,lost_luggage
+Est-ce qu'un vol international peut être annulé par une alerte de voyage,travel_alert
+Comment puis-je savoir s'il y a une alerte de voyage en cours dans un pays donné ?,travel_alert
+Je veux aller au Japon mais comment sait-on que cela sera autorisé ?,travel_alert
+Où est mon bagage?,lost_luggage
+Mon bagage a disparu,lost_luggage
+Est-ce qu'il existe une alerte de voyage aux États-Unis ?,travel_alert
+Le bagage n'est pas arrivé,lost_luggage
+Il faut trouver ma valise,lost_luggage
+Où se trouve mon bagage ?,lost_luggage
+Comment puis-je obtenir un avis de voyage pour l’Espagne,travel_alert
+"J’ai perdu mon sac à dos et ma valise, comment puis-je récupérer ces objets",lost_luggage
+"Mon sac à dos n’est pas arrivé avec moi, où peut-on me le remettre",lost_luggage
+Comment puis-je savoir s'il existe un avis de voyage pour le Japon ?,travel_alert
+Comment puis-je ajouter une alerte de voyage pour le Japon?,travel_alert
+Je voudrais connaître l'état des bagages perdus de Delta Air Lines aujourd'hui,lost_luggage
+Comment puis-je obtenir un remboursement pour la perte d'un sac à dos ?,lost_luggage
+Comment puis-je savoir quand ma valise arrivera ?,lost_luggage
+Je voudrais savoir où j'en suis dans le processus d'obtention de mes bagages,lost_luggage
+Est-ce qu'on m'aide à retrouver mes bagages ?,lost_luggage
+Avez-vous un numéro de téléphone ou une adresse email pour contacter quelqu'un au sujet de mes bagages ?,lost_luggage
+Combien de temps prendra-t-il avant que je puisse obtenir mes bagages ?,lost_luggage
+Quel est le meilleur moyen de faire en sorte que mes bagages soient livrés chez moi ?,lost_luggage
+Comment puis-je demander aux agents du service clientèle de me donner plus d'informations sur les bagages perdus ?,lost_luggage
+Comment puis-je savoir s'ils ont déjà été localisé ?,lost_luggage
+Comment puis-je savoir s'ils m'ont donné mon sac à dos ou non,lost_luggage
+Je suis arrivée au siège social d'American Airlines pour récupérer ma valise mais ils disaient qu'elle avait été envoyée par erreur vers un autre endroit,lost_luggage
+J'ai perdu mon sac à dos dans la rue et je veux savoir comment pouvais-je obtenir une remboursement,lost_luggage
+"Si je perd mon sac à dos, comment puis-je le retrouver",lost_luggage
+Quel est le meilleur moyen de contacter American Airlines pour signaler que je n'ai pas reçu mon sac à dos,lost_luggage
+Quelles sont les options disponibles pour réclamer une compensation financière pour un sac à dos perdu,lost_luggage
+Quand ai-je besoin de commencer à soumettre une demande de remplacement de bagage,lost_luggage
+Supprimez l'alerte de voyage pour le Mexique,travel_alert
+Comment puis-je obtenir plus d'informations sur les alertes de voyage ?,travel_alert
+Pourriez-vous me dire comment j'obtiens plus d'informations sur les alertes de voyage ?,travel_alert
+Quel est l'état du vol BA123 ?,flight_status
+Mon vol est-il retardé ?,flight_status
+Je suis parti de Chicago et j'ai un problème avec mon sac à dos,lost_luggage
+Comment peut-on obtenir un remboursement pour nos bagages perdus ?,lost_luggage
+Est-ce qu'il est possible d'obtenir un remboursement pour nos bagages perdus ?,lost_luggage
+J'ai perdu mon sac à dos et ma valise dans l'aéroport de Denver,lost_luggage
+Mon sac à main a disparu lors de la descente de l'avion,lost_luggage
+Les bagages ont été déchargés mais ils étaient tous endommagés,lost_luggage
+Nos bagages ont été envoyés par erreur vers un autre avion,lost_luggage
+L'équipage a oublié de charger nos bagages,lost_luggage
+Un membre de l'équipage a pris nos bagages par erreur,lost_luggage
+Une personne a emprunté nos bagages sans autorisation,lost_luggage
+Pourquoi est-ce que le vol a été annulé ?,flight_status
